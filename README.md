@@ -8,8 +8,8 @@ A seguir é implementado uma função que chame a função de geração de núme
 
 Em seguida, outra função recebe o conteúdo do arquivo .txt e analisa:
 
-- Se um dígito desse segundo número encontra-se no primeiro número mas na posição errada, coloca-se na resposta um caracter "0""
-- Se esse dígito estiver no primeiro número e na posição correta, coloca-se na resposta um caracter "1"
+- Se um dígito desse segundo número encontra-se no primeiro número mas na posição errada, coloca-se na resposta um caracter "0".
+- Se esse dígito estiver no primeiro número e na posição correta, coloca-se na resposta um caracter "1".
 - Se o dígito não estiver no primeiro número, não agregar caracter na resposta.
 - Repetir para os demais dígitos.
 
@@ -23,10 +23,8 @@ Next, another function that calls the first function to create another 4-digits 
 
 Lastly, a third function that receives the .txt content, another 4-digits non-repeated random number and evaluate:
 
--If there is an equal digit in both numbers but in different position, it returns a "0".
--If there is an equal digit in both numbers but in the same position, it returns a "1".
--If there is no equal numbers, do not return response.
--Repeat to all digits in the number.
-
-
+- If there is an equal digit in both numbers but in different position, it returns a "0".
+- If there is an equal digit in both numbers but in the same position, it returns a "1".
+- If there is no equal numbers, do not return response.
+- Repeat to all digits in the number.
 
