@@ -1,6 +1,6 @@
-# projeto_05
+# Mastermind Game
 
-A tarefa inicial consiste em implementar uma função que gera um número com 4 dígitos não repetidos. Exemplos: 1234, 5432, 7654
+A tarefa inicial consiste em implementar uma função que gera um número com 4 dígitos não repetidos.
 
 Em seguida, utilizar o flask para disponibilizar esta função via chamada web.
 
@@ -13,9 +13,9 @@ Em seguida, outra função recebe o conteúdo do arquivo .txt e analisa:
 - Se o dígito não estiver no primeiro número, não agregar caracter na resposta.
 - Repetir para os demais dígitos.
 
-# project_05
+# Mastermind Game
 
-The initial task consists of implementing a function which creates a 4-digits non-repeated random number. For example:  1234, 5432, 7654.
+The initial task consists of implementing a function which creates a 4-digits non-repeated random number.
 
 Then, to use Flask to make this function available in web browser.
 
